@@ -1,0 +1,5 @@
+Stream,2018,2019
+Basic Sciences,23764,17213
+Engineering,66734,64398
+Arts,18033,12383
+Commerce,50876,63872

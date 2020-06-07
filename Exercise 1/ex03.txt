@@ -1,0 +1,11 @@
+City,Year,O2,CO2
+delhi,2011,24.2,0.04
+Bangalore,2011,25.2,0.03
+delhi,2013,25.3,0.05
+Bangalore,2013,24.4,0.04
+delhi,2015,26.1,0.06
+Bangalore,2015,24.8,0.03
+delhi,2017,26.8,0.08
+Bangalore,2017,25.0,0.04
+delhi,2019,27.1,0.10
+Bangalore,2019,25.2,0.05
